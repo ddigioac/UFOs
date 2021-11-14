@@ -10,10 +10,11 @@ In this analysis I have created a webpage and dynamic table for users to filter 
 
 In order to perform a search on the webpage, the user must scroll to the 'Filter Search' section on the left hand side of the page. 
 
-Within 'Filter Search', users can input a date (ex. 1/1/2010), city (ex. benton), state (ex. ar), country (ex. us), and shape (ex. circle). As per image below: 
+Within 'Filter Search', users can input a date (ex. 1/1/2010), city (ex. benton), state (ex. ar), country (ex. us), and shape (ex. circle). As per image below:
+![This is an image]
 
 Users may also search by entering data in only field. For example, I entered the state as 'ca' to search for all UFO sighting data in California. See image below: 
-
+![This is an image]
 
 ## UFO Summary
 
